@@ -87,21 +87,7 @@ class Puzzle
       file.syswrite("\n#{Time.now-before}, #{count}")
     end
   end
-  
-  # def next_position
-  #   while @position < 987654322
-  #     @position += 1
-  #     test = true
-  #     # puts "testing: #{@position}"
-  #     (1..9).each do |i|
-  #       #  Test to see if every number is in the string (except 0)
-  #       test = false if @position.to_s.index(i.to_s) == nil
-  #     end
-  #     return if test == true
-  #   end
-  #   puts "tried everything"
-  # end
-  
+
   def next_position
     a = @position.to_s.split(//)
     a.each_index {|i| a[i] = a[i].to_i }
