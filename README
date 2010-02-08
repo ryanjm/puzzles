@@ -1,0 +1,6 @@
+One Tough Puzzle
+================
+
+This is a project to come up with an efficient solution to solving One Tough Puzzle (TM).
+
+Right now the solution is set to iterate over all possibilities and find the correct solution that way.  In the future I plan on either rewriting this in other languages and/or making it more efficient.  This is just a fun personal project.
