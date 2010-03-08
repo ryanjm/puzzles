@@ -1,0 +1,47 @@
+Positions 498721653:
+Check-Till 9:
+Position 0:
+Top:     Heart in
+Right:   Spade out
+Bottom:  Diamond out
+Left:    Spade in
+Position 1:
+Top:     Club in
+Right:   Heart out
+Bottom:  Spade out
+Left:    Spade in
+Position 2:
+Top:     Diamond in
+Right:   Spade out
+Bottom:  Diamond out
+Left:    Heart in
+Position 3:
+Top:     Diamond in
+Right:   Heart in
+Bottom:  Heart out
+Left:    Diamond out
+Position 4:
+Top:     Spade in
+Right:   Heart in
+Bottom:  Club out
+Left:    Heart out
+Position 5:
+Top:     Diamond in
+Right:   Club in
+Bottom:  Club out
+Left:    Heart out
+Position 6:
+Top:     Heart in
+Right:   Club in
+Bottom:  Spade out
+Left:    Spade out
+Position 7:
+Top:     Club in
+Right:   Diamond in
+Bottom:  Diamond out
+Left:    Club out
+Position 8:
+Top:     Club in
+Right:   Club in
+Bottom:  Heart out
+Left:    Diamond out
